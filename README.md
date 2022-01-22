@@ -39,6 +39,9 @@ Algoritmos
  - AdaBoosting
  - Algorítmos Genéticos
 
+Cursos
+ - https://www.coursera.org/learn/machine-learning
+
 Vídeos
  - https://www.youtube.com/watch?v=0PrOA2JK6GQ - Machine Learning Explicado
  - https://www.youtube.com/watch?v=mhe5e2B9bL8 - Machine Learning: como ensinar uma máquina a aprender | Nerdologia Tech
