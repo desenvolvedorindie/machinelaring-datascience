@@ -35,6 +35,7 @@ Algoritmos
  - Detecção de Anormalias
  - Gradient boosting
  - AdaBoosting
+ - Algorítmos Genéticos
 
 Vídeos
  - https://www.youtube.com/watch?v=0PrOA2JK6GQ - Machine Learning Explicado
