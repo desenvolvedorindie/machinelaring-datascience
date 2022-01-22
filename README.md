@@ -10,9 +10,11 @@ Problemas
  - Ciências Atuariais
  - PageRank
  - Sistema de Recomendação
+ - Trascrição de áudio
 
 Preparar dados
  - Remover correlação
+ - Dimensionar (escalar)
  - Redução de imagem
  - Redução de Dimensionalidade
  - Base de Treinamento
@@ -20,8 +22,10 @@ Preparar dados
 
 Algoritmos
  - Collaborative Filtering
+ - User Filtering
  - Regressão Linear com uma variável
  - Regressão Linear com multiplas variáveis
+ - Regressão não linear
  - Regressão Logística
  - Decision Tree
  - Perceptron
