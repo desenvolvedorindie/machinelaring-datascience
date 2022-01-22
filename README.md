@@ -8,6 +8,8 @@ Problemas
  - Quais são os grupos (kluster)
  - Aprendizado por reforço (Sistema de Controle - Aprendem por tentativa e erro - Punição)
  - Ciências Atuariais
+ - PageRank
+ - Sistema de Recomendação
 
 Preparar dados
  - Remover correlação
