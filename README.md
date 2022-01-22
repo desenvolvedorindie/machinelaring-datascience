@@ -4,9 +4,10 @@ Machine Learning &amp; Data Science - Grupo de Estudos
 Problemas
  - Classificação (Sim ou Não, Classes, Análise de Risco) 
  - Reconstrução de Imagem
- - Regressão (Quanto é, Ciências Atuariais)
+ - Regressão (Quanto é)
  - Quais são os grupos (kluster)
  - Aprendizado por reforço (Sistema de Controle - Aprendem por tentativa e erro - Punição)
+ - Ciências Atuariais
 
 Preparar dados
  - Remover correlação
