@@ -41,9 +41,9 @@ Algoritmos
  - Detecção de Anormalias
  - Gradient boosting
  - AdaBoosting
- - Algorítmos Genéticos (new)
- - Redes de função de base radial (new)
- - Redes Neurais Convolucionais (new)
+ - Algorítmos Genéticos - new
+ - Redes de função de base radial - new
+ - Redes Neurais Convolucionais (convnets) - new
 
 Cursos
  - https://www.coursera.org/learn/machine-learning
