@@ -59,7 +59,7 @@ Canais
  - https://www.youtube.com/c/canalsandeco - CANAL SANDECO
  - https://www.youtube.com/channel/UC8-mDg91FCnc0D4Mm_gRjQQ - Aprendiz do Futuro
 
-Ferramentas
+Ferramentas (new)
  - https://wandb.ai/site
  - https://lambdalabs.com/
  - https://www.mathworks.com/
