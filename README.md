@@ -41,7 +41,9 @@ Algoritmos
  - Detecção de Anormalias
  - Gradient boosting
  - AdaBoosting
- - Algorítmos Genéticos
+ - Algorítmos Genéticos (new)
+ - Redes de função de base radial (new)
+ - Redes Neurais Convolucionais (new)
 
 Cursos
  - https://www.coursera.org/learn/machine-learning
@@ -55,3 +57,6 @@ Vídeos
 Canais
  - https://www.youtube.com/c/canalsandeco - CANAL SANDECO
  - https://www.youtube.com/channel/UC8-mDg91FCnc0D4Mm_gRjQQ - Aprendiz do Futuro
+
+Ferramentas
+ - https://wandb.ai/site
