@@ -61,3 +61,5 @@ Canais
 
 Ferramentas
  - https://wandb.ai/site
+ - https://lambdalabs.com/
+ - https://www.mathworks.com/
