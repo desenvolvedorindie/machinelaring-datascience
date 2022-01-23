@@ -34,7 +34,7 @@ Algoritmos
  - Support Vector Machine
  - Mapas Auto-organizáveis
  - Redes neurais recorrentes
- - Naive Bayes
+ - Naive Bayes (Análise de Sentimento, Classificador de Spam)
  - K-Mean
  - K-Nearest Neighbors (KNN)
  - Random Forest
