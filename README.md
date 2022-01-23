@@ -19,6 +19,7 @@ Preparar dados
  - Redução de Dimensionalidade
  - Base de Treinamento
  - Base de Teste
+ - Data Augmentation - new
 
 Algoritmos
  - Collaborative Filtering
