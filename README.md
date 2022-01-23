@@ -63,3 +63,4 @@ Ferramentas (new)
  - https://wandb.ai/site
  - https://lambdalabs.com/
  - https://www.mathworks.com/
+ - https://www.ibm.com/br-pt/watson
