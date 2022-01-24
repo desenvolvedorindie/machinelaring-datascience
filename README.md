@@ -65,3 +65,4 @@ Ferramentas (new)
  - https://www.mathworks.com/
  - https://www.ibm.com/br-pt/watson
  - https://openai.com/
+ - https://www.tensorflow.org/
