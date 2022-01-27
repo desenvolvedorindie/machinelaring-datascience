@@ -45,6 +45,7 @@ Algoritmos
  - Algorítmos Genéticos - new
  - Redes de função de base radial - new
  - Redes Neurais Convolucionais (convnets) - new
+ - Processos de Decisão de Markov - new
 
 Cursos
  - https://www.coursera.org/learn/machine-learning
