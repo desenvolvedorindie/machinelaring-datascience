@@ -67,3 +67,7 @@ Ferramentas (new)
  - https://www.ibm.com/br-pt/watson
  - https://openai.com/
  - https://www.tensorflow.org/
+
+
+Agenda
+ - Apresentação - 22/01/22
