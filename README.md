@@ -67,6 +67,8 @@ Ferramentas (new)
  - https://www.ibm.com/br-pt/watson
  - https://openai.com/
  - https://www.tensorflow.org/
+ - Python
+   - https://scikit-learn.org/ 
 
 
 Agenda
